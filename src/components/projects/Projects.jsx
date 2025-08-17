@@ -43,7 +43,7 @@ const Projects = () => {
           des="Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={projectFourth}
-          githubLink="https://github.com/yourusername/portfolio"
+          githubLink="https://github.com/Hardik-chauhan077/portfolio.git"
           liveLink="https://yourportfolio.vercel.app"
         />
         <ProjectsCard
