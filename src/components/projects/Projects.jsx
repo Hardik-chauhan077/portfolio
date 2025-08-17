@@ -44,7 +44,7 @@ const Projects = () => {
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={projectFourth}
           githubLink="https://github.com/Hardik-chauhan077/portfolio.git"
-          liveLink="https://yourportfolio.vercel.app"
+          liveLink="https://portfolio-two-sable-53.vercel.app/"
         />
         <ProjectsCard
           title="Blog Platform"
