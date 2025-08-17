@@ -40,8 +40,7 @@ const Projects = () => {
         />
         <ProjectsCard
           title="Portfolio Website"
-          des="Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="“A modern and responsive portfolio website built with React and Vite to showcase my projects, skills, and achievements. Features a clean UI, smooth navigation, and optimized performance for all devices."
           src={projectFourth}
           githubLink="https://github.com/Hardik-chauhan077/portfolio.git"
           liveLink="https://portfolio-two-sable-53.vercel.app/"
