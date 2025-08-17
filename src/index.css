@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .testimonialCard {
+    @apply bg-[#1E293B] p-6 rounded-md shadow-md text-white;
+  }
+  .testimonialQuote {
+    @apply text-4xl text-designColor mb-4;
+  }
+  .testimonialText {
+    @apply text-gray-200 text-base leading-relaxed mb-4;
+  }
+  .testimonialStars {
+    @apply text-yellow-400 flex gap-1 mb-2;
+  }
+  .testimonialAuthor {
+    @apply text-designColor font-semibold;
+  }
+  .testimonialRole {
+    @apply text-sm text-gray-400;
+  }
+}
