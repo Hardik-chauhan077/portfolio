@@ -68,7 +68,7 @@ To run this project locally, follow the steps below:
 Here are some screenshots of the website:
 
 - **Home Page**: 
-  ![Home Page](./screenshots/home.png)
+  ![Home Page](.https://github.com/Hardik-chauhan077/portfolio/blob/e5dd09c7f09dc8b8c528158ea8dfffed20308630/image/homePage.png)
 
 - **Projects Section**:
   ![Projects Section](./screenshots/projects.png)
