@@ -71,7 +71,10 @@ Here are some screenshots of the website:
   ![Home Page](https://github.com/Hardik-chauhan077/portfolio/blob/e5dd09c7f09dc8b8c528158ea8dfffed20308630/image/homePage.png)
 
 - **Projects Section**:
-  ![Projects Section](./screenshots/projects.png)
+  ![Projects Section](https://github.com/Hardik-chauhan077/portfolio/blob/f6f798b4f81ce21d3d7e34de2d24112963a37b6d/image/projectSection1.png)
+
+  ![Projects Section 2](https://github.com/Hardik-chauhan077/portfolio/blob/f6f798b4f81ce21d3d7e34de2d24112963a37b6d/image/projectsection2.png)
+
 
 ---
 
