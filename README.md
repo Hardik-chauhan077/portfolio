@@ -90,5 +90,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 💬 Contact
 
 You can reach me at:
-- Email: [your-email@example.com](mailto:your-email@example.com)
 - GitHub: [https://github.com/Hardik-chauhan077](https://github.com/Hardik-chauhan077)
